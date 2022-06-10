@@ -1,46 +1,30 @@
-# Getting Started with Create React App
+<h1 align="center"> Industrial Imperalism </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+website with 4 pages;
 
-## Available Scripts
+Inicial Page: 
+![Inicial Page](https://user-images.githubusercontent.com/63472585/173112743-30a3f18d-3804-4fc2-96c8-10ef82ca261a.png)
 
-In the project directory, you can run:
+Home Page: 
+![Home Page](https://user-images.githubusercontent.com/63472585/173112769-c16b7549-d631-40e4-88f8-ab2971339fb0.png)
 
-### `npm start`
+Donwload Page:
+![Donwload Page](https://user-images.githubusercontent.com/63472585/173112784-d54e466a-0853-4218-a5e6-6d56d0330a6f.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+About Page:
+![About Page](https://user-images.githubusercontent.com/63472585/173112808-386487c8-7c70-4998-b644-5698eca25cf7.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Login Page:
+![Login Page](https://user-images.githubusercontent.com/63472585/173112827-761cb7a2-565f-4d85-bf56-9b4c7c32a10e.png)
 
-### `npm test`
+Registar Page:
+![Register Page](https://user-images.githubusercontent.com/63472585/173112843-adfd04f9-3de4-4442-9bd2-068c7a84a700.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+OBS: Bulbasaur icon its a placeholder for a future logo.
 
-### `npm run build`
+### To install:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- `npm install`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### To run:
+- `npm start`
